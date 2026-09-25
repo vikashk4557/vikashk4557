@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Vikash Kumar<br><br>💻 Full Stack / MERN Stack Developer<br>🎓 BCA Graduate<br>🚀 Building web applications and REST APIs<br>⚛️ React.js | Node.js | Express.js | MongoDB<br>🌱 Currently learning MySQL, Java DSA & advanced backend development<br>🤝 Open to collaborating on Full Stack projects<br>💬 Ask me about React, Node.js, MongoDB, REST APIs & Git<br>⚡ Fun fact: I love understanding how things work behind the screen.
+👋 Hi, I'm Vikash Kumar<br><br>💻 Full Stack / MERN Stack Developer<br>🎓 BCA Graduate<br>🚀 Building web applications and REST APIs<br>⚛️ React.js | Node.js | Express.js | MongoDB<br>🌱 Currently learning MySQL, Java DSA & advanced backend development<br>🤝 Open to collaborating on Full Stack projects<br>💬 Ask me about React, Node.js, MongoDB, REST APIs & Git<br>.
 
 
 ## 🌐 Socials:
